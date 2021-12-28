@@ -1,0 +1,13 @@
+login into webserver1
+sudo vi /var/www/html/index.html
+then copy and paste the below content
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is my webserver 1 </h1>
+<p>This is a paragraph.</p>
+<img src="https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg"></img>
+</body>
+</html
